@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "author": "Chris Dosé <chris.dose@gmail.com>",
   "description": "Connect/Express middleware for tracking which links should be active in a view or layout.",
-  "homepage": "https://github.com/doughsay/active-tags",
+  "homepage": "https://github.com/doughsay/connect-active-tags",
   "main": "lib/active-tags",
   "repository": {
     "type": "git",
-    "url": "https://github.com/doughsay/active-tags.git"
+    "url": "https://github.com/doughsay/connect-active-tags.git"
   },
   "license": "MIT"
 }
