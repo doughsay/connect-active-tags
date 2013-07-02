@@ -1,6 +1,6 @@
 {
   "name": "active-tags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Chris Dosé <chris.dose@gmail.com>",
   "description": "Connect/Express middleware for tracking which links should be active in a view or layout.",
   "homepage": "https://github.com/doughsay/connect-active-tags",
